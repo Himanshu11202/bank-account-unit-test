@@ -17,6 +17,7 @@ The main difficulty I faced was checking error conditions, which I handled using
 
 ## 4. Output Screenshots
 Below screenshot shows that all test cases are passed successfully.
+![alt text](test_result.png)
 
 ## 5. Future Improvements
 If I get more time, I will add more test cases for edge conditions and improve validations.
